@@ -1,4 +1,4 @@
 Material Colors
 ===============
 
-*Colors extracted from CSS files of [materialize](https://github.com/Dogfalo/materialize)*
+*Colors extracted from CSS on [materialize](https://github.com/Dogfalo/materialize)*
